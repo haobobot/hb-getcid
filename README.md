@@ -1,3 +1,9 @@
+
+
+#hb-getcid
+pip install hb-getcid
+
+
 # hb-getcid
 # --- 灵活调用演示 ---
 from hb_getcid import HBGetCid
